@@ -34,3 +34,30 @@ if age >= 18:
 is_logged_in = True
 if is_logged_in:
   print("Welcome back!")
+
+    #There are some examples
+
+# 1. AND
+age = 20
+if age >= 18 and age <= 25:
+    print("You are between 18 and 25")
+
+# 2. OR
+temperature = 35
+if temperature < 0 or temperature > 30:
+    print("Extreme temperature")
+
+# 3. NOT
+is_raining = False
+if not is_raining:
+    print("You can go for a walk")
+
+# 4. AND + OR together
+score = 85
+if score >= 90 or (score >= 80 and score < 90):
+    print("Good or excellent score")
+
+# 5. Simple comparison
+password = "1234"
+if password == "1234":
+    print("Access granted")
