@@ -16,3 +16,6 @@ print(first_letter("python"))
 
 max_two=lambda a,b:a if a>b else b
 print(max_two(7,3))
+
+sum_of_all= lambda a,b,c: a+b+c
+print(sum_of_all(1,2,3))

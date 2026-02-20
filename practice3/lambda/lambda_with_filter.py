@@ -21,3 +21,7 @@ print(result)
 nums=[3,6,9,12]
 result=list(filter(lambda x:x%3==0 and x>5,nums))
 print(result)
+
+names=input().split()
+result=list(filter(lambda s:s[0]=='S',names))
+print(result)

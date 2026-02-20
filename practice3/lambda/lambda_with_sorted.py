@@ -21,3 +21,7 @@ print(result)
 pairs=[(1,3),(2,1),(4,2)]
 result=sorted(pairs,key=lambda x:x[1])
 print(result)
+
+names=input().split()
+result=sorted(map(int,names),key=lambda x:x)
+print(result)
