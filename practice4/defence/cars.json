@@ -1,0 +1,8 @@
+{
+    "cars": [
+        {"brend": "Mercedes", "model": "E class", "price": "2000"},
+        {"brend": "BMW", "model": "M5", "price": "40000"},
+        {"brend": "Toyota", "model": "Camri", "price": "15000"},
+        {"brend": "Chevrolet", "model": "Cruze", "price": "5000"}
+    ]
+}

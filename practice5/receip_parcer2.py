@@ -4,9 +4,11 @@ import json
 with open("raw.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
-prices = re.findall(r'\d[\d ]*,\d{2}', text)
+products = re.findall(r'\d+\.\n(.+)', text)
 
-prices_clean = [float(p.replace(" ", "").replace(",", ".")) for p in prices]
+item_totals = re.findall(r'Стоимость\s+([\d ]+,\d{2})', text)
+
+prices_clean = [float(p.replace(" ", "").replace(",", ".")) for p in item_totals]
 
 products = re.findall(r'\d+\.\n(.+)', text)
 

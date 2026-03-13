@@ -1,3 +1,6 @@
+import os
+print("CURRENT DIR:", os.getcwd())
+
 import json
 
 with open("sample-data.json", "r", encoding="utf-8") as f:

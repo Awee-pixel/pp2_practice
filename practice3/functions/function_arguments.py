@@ -8,7 +8,7 @@ my_func("Michael")
 def my_function(name): # name is a parameter
   print("Hello", name)
 
-my_function("Emil") # "Emil" is an argument
+my_function("Emil") # Emil is an argument
 
 def avvalue_all(integer1,integer2,integer3):
     sum=integer1+integer2+integer3
