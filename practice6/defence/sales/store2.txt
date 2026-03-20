@@ -1,0 +1,2 @@
+Monitor,2
+Headphones,4

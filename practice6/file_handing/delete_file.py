@@ -11,7 +11,10 @@ try:
 except:
     print("File does not exist")
 
-with open("sample.txt","r",encoding="utf-8") as f:
-    text=f.read()
+try:
+    os.rmdir("test.csv")
+except:
+    print("File does not exist")
+
 
 

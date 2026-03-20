@@ -1,0 +1,6 @@
+Totl number of records: 5
+Average quantity sold: 4.8
+Max in products list: 10
+Min in products list: 2
+Popular products:
+Mouse 10

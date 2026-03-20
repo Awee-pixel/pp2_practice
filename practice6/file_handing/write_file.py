@@ -16,7 +16,7 @@ with open("answer.txt","a",encoding="utf-8") as f:
     f.write("Well,if he has 20 fingers it would have a little trouble\n")
 
 with open("answer.txt","a",encoding="utf-8") as f:
-    f.write("But,will u lose?\n")
+    f.write("But,would u lose?\n")
 
 with open("answer.txt","a",encoding="utf-8") as f:
     f.write("Nah,Id winn\n")
