@@ -1,0 +1,16 @@
+[
+  {
+    "first_name": "Anuar",
+    "last_name": "Nusipbay",
+    "email": "anuarnusipbai002@gmail.com",
+    "birthday": "2009-06-05",
+    "created_at": "2026-05-01T02:12:57.049971",
+    "group_name": null,
+    "phones": [
+      {
+        "phone": "87015978342",
+        "type": "mobile"
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "first_name": "Arkhat",
+    "last_name": "Nusipbay",
+    "email": "arhatnusipbai002@gmail.cpm",
+    "birthday": "2007-08-09",
+    "created_at": "2026-05-01T02:12:57.049971",
+    "group_name": null,
+    "phones": [
+      {
+        "phone": "87015978341",
+        "type": "mobile"
+      }
+    ]
+  }
+]
